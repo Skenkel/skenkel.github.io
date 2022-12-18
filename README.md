@@ -9,7 +9,7 @@ Who am I?
 
 These days I focus on technology and art. 
 I have a day job, (involving reliability and distributed systems), but that's not really what this is about. 
-I've always been a weeb, and that is a defining component of my aesthetic, so most of my art is exploring what that means. 
+I've always been a weeb, and that is a defining component of my aesthetic, so most of my art is exploring that subculture. 
 
 What happened to the old site?
 
