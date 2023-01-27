@@ -2,13 +2,13 @@
 
 Who was I?
 
-I used to travel the earth building news and sports stations. Then I tried to learn machine learning, and starting doing SRE work. 
+I used to travel the earth building news and sports stations. Then I got a masters in machine learning, and starting doing SRE work. 
 
 
 Who am I?
 
 These days I focus on technology and art. 
-I have a day job, (involving reliability and distributed systems), but that's not really what this is about. 
+I have a day job, (involving reliability and distributed systems), but that's not really what this is about.  As an update, I am currently looking for another SRE dayjob (either remote or in austin).
 I've always been a weeb, and that is a defining component of my aesthetic, so most of my art is exploring that subculture. 
 
 What happened to the old site?
