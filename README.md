@@ -18,7 +18,7 @@ If you want to check wayback machine you can see what it was.
 
 What's next?
 
-Gans and Generative Text models went from experiments during my masters, to very very popular. However, none of them solve the larger socio-economic issues with modern. 
+Gans and Generative Text models went from experiments during my masters, to very very popular. However, none of them solve the larger socio-economic issues with modern art. 
 
 Those two issues being:
 
@@ -32,7 +32,7 @@ For now, I'm focused on live experiences (music and visuals), also because in th
 
 Current Projects
 
-I am a firm believer you shouldn't automate/involve technology into an art practice before you've learned the "traditional" ways to make thart art, even if it's just you understand the aesthetic traditions you are rejecting.
+I am a firm believer you shouldn't automate/involve technology into an art practice before you've learned the "traditional" ways to make thart art, even if it's just so you understand the aesthetic traditions you are rejecting.
 
 So currently I'm learning to DJ, VJay and AMVJay.  
 For the VJay part, I'm going through the course at https://vidvox.github.io/vvedu/, and the next time there is a resolume course that fits my schedule, I intend to take it. 
