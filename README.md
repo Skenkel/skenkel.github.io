@@ -8,8 +8,10 @@ I used to travel the earth building news and sports stations. Then I got a maste
 Who am I?
 
 These days I focus on technology and art. 
-I have a day job, (involving reliability and distributed systems), but that's not really what this is about.  As an update, I am currently looking for another SRE dayjob (either remote or in austin).
-I've always been a weeb, and that is a defining component of my aesthetic, so most of my art is exploring that subculture. 
+I have a day job, (involving reliability, distributed systems and using ml for practical things), but that's not really what this is about. 
+
+I've always been a weeb, and that is a defining component of my aesthetic, so most of my art is exploring that subculture.
+This is about me exploring that subculture on the bleeding edge of technology and aesthetics.
 
 What happened to the old site?
 
@@ -18,7 +20,7 @@ If you want to check wayback machine you can see what it was.
 
 What's next?
 
-Gans and Generative Text models went from experiments during my masters, to very very popular. However, none of them solve the larger socio-economic issues with modern art. 
+Gans and Generative Text models went from experiments during my masters, to very very popular. However, none of them solve the larger socio-economic issues with modern art.
 
 Those two issues being:
 
@@ -41,7 +43,7 @@ For AMVJay, I'm getting back into amv curration, and figuring out a tagging syst
 
 Future Projects
 
-An LLM  to generate RPG adventures. I tried this in the past, and gpt-2 wasn't sufficient, even with retraining. Using a proper latex template, and some common inputs to make the adventures themes fit the player characters, I think it would be achievable.
+LLM cowriting an RPG with me. I'm working on a Zine style self published rpg that will never be available in digital form, but was created extremely digitally.
 
 Trying to Automate Anime Music Videos (so I can watching infinite amvs forever). 
 
