@@ -38,8 +38,7 @@ I am a firm believer you shouldn't automate/involve technology into an art pract
 
 So currently I'm learning to DJ, VJay and AMVJay.  
 For the VJay part, I'm going through the course at https://vidvox.github.io/vvedu/, and the next time there is a resolume course that fits my schedule, I intend to take it. 
-For DJ practice I'm learning to livestream in ffxiv in my free companies dance floor. 
-For AMVJay, I'm getting back into amv curration, and figuring out a tagging system that works for the hybrid art form. 
+For DJ practice I'm learning, and I'm investigating a mogra [mogra at home](https://drunkenthieves.com/mogra) setup, as well as a more generic [vjay library](https://drunkenthieves.com/vjay-library)
 
 Future Projects
 
