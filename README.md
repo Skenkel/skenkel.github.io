@@ -2,7 +2,7 @@
 
 Who was I?
 
-I used to travel the earth building news and sports stations. Then I got a masters in machine learning, and starting doing SRE work. 
+I used to travel the earth building news and sports stations. Then I started doing sre work and got a masters in machine learning. 
 
 
 Who am I?
@@ -10,7 +10,7 @@ Who am I?
 These days I focus on technology and art. 
 I have a day job, (involving reliability, distributed systems and using ml for practical things), but that's not really what this is about. 
 
-I've always been a weeb, and that is a defining component of my aesthetic, so most of my art is exploring that subculture, or the intersection of that subculture with sword fighting, dungeons and dragons and similar. 
+I've always been a weeb, and that is a defining component of my aesthetic, so most of my aesthetic interest is in exploring that subculture, or the intersection of that subculture with sword fighting, dungeons and dragons and similar. 
 I've always been interested in the  bleeding edge of technology and aesthetics, at least until recently.
 
 What happened to the old site?
@@ -38,13 +38,11 @@ Current Projects
 I am a firm believer you shouldn't automate/involve technology into an art practice before you've learned the "traditional" ways to make thart art, even if it's just so you understand the aesthetic traditions you are rejecting.
 
 So currently I'm learning to DJ, VJay and AMVJay.  
-For the VJay part, I'm going through the course at https://vidvox.github.io/vvedu/, and the next time there is a resolume course that fits my schedule, I intend to take it. 
-For DJ practice I'm learning, and I'm investigating a mogra [mogra at home](https://drunkenthieves.com/mogra) setup, as well as a more generic [vjay library](https://drunkenthieves.com/vjay-library)
+For the VJay part, I'm going through the course at https://vidvox.github.io/vvedu/ and a course by dadageek, focusing on resolume.  
+For DJ practice I'm learning, and I'm investigating a mogra [mogra at home](https://drunkenthieves.com/mogra) setup, as well as a more generic [vjay library](https://drunkenthieves.com/vjay-library), with virtualdj being my primary stack. 
 
 Future Projects
 
-LLM cowriting an RPG with me. I'm working on a Zine style self published rpg that will never be available in digital form, but was created extremely digitally.
+[strudel](https://strudel.cc/workshop/getting-started/) is fascinating, as is the mandolin. 
+I own some hardware synths, as well as ableton, and right now I'm exploring the dungeon synth genre as a listener.  Eventually it mighy be fun to dive into DnD/Larp style live music.
 
-Trying to Automate Anime Music Videos (so I can watching infinite amvs forever). 
-
-Introducing Generative art trained on anime images into a vjay workflow.
