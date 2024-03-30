@@ -10,8 +10,8 @@ Who am I?
 These days I focus on technology and art. 
 I have a day job, (involving reliability, distributed systems and using ml for practical things), but that's not really what this is about. 
 
-I've always been a weeb, and that is a defining component of my aesthetic, so most of my art is exploring that subculture.
-This is about me exploring that subculture on the bleeding edge of technology and aesthetics.
+I've always been a weeb, and that is a defining component of my aesthetic, so most of my art is exploring that subculture, or the intersection of that subculture with sword fighting, dungeons and dragons and similar. 
+I've always been interested in the  bleeding edge of technology and aesthetics, at least until recently.
 
 What happened to the old site?
 
