@@ -20,7 +20,7 @@ If you want to check wayback machine you can see what it was.
 
 What's next?
 
-Gans and Generative Text models went from experiments during my masters, to very very popular. However, none of them solve the larger socio-economic issues with modern art.
+Gans and Generative Text models (now called llms) went from experiments during my masters, to very very popular. However, none of them solve the larger socio-economic issues with modern art.
 
 Those two issues being:
 
@@ -29,7 +29,8 @@ Those two issues being:
 2. How much should it cost?
 
 
-For now, I'm focused on live experiences (music and visuals), also because in the world of 2023, people want to have experiences in physical space. 
+For now, I'm focused on live experiences (music and visuals), also because in the world of 2024, people want to have experiences in physical space. 
+The experience being the product gives me basic answers to 1 and 2. The audience is whoever is present live (either in person or on a stream). It needs to cost whatever it costs to keeps the lights on at the facility you are using to perform. 
 
 
 Current Projects
